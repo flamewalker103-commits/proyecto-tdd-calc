@@ -1,7 +1,7 @@
 {
   "name": "proyecto-tdd-calc",
   "version": "1.0.0",
-  "description": "Calculadora sencilla para practicar desarrollo guiado por pruebas (TDD) y mejorar habilidades de programación.",
+  "description": "A simple calculator for practicing Test-Driven Development (TDD).",
   "main": "index.js",
   "scripts": {
     "test": "jest"
