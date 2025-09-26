@@ -8,6 +8,6 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jest": "^30.4.0"
+    "jest": "^30.4.1"
   }
 }
