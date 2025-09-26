@@ -1,7 +1,7 @@
 {
   "name": "proyecto-tdd-calc",
   "version": "1.0.0",
-  "description": "A simple calculator designed for practicing Test-Driven Development (TDD) methodologies.",
+  "description": "A simple calculator built for practicing Test-Driven Development (TDD) methodologies and improving coding skills.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
