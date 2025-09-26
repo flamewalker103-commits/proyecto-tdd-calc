@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-tdd-calc",
+  "version": "1.0.0",
+  "description": "Una calculadora simple para practicar TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
