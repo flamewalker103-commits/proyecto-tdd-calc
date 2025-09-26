@@ -1,7 +1,7 @@
 {
   "name": "proyecto-tdd-calc",
   "version": "1.0.0",
-  "description": "Una calculadora simple para practicar TDD",
+  "description": "Una calculadora simple para practicar el desarrollo guiado por pruebas (TDD).",
   "main": "index.js",
   "scripts": {
     "test": "jest"
